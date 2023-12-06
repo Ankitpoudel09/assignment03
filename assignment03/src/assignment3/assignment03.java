@@ -1,4 +1,4 @@
-package assignment03;
+package assignment3;
 public class assignment03 {
 
 	/*
@@ -20,7 +20,7 @@ public class assignment03 {
 		    totalRolls = totalRolls + diceRolls[index];
 		}
 		System.out.println("Total rolls were: " + totalRolls);
-		System.out.println("Program by Stanley Pieda");
+		System.out.println("Program by Ankit Poudel");
 
 	}
 
